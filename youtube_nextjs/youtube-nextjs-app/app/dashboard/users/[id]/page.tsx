@@ -8,4 +8,4 @@ const page = ({ params }: { params: { id: string }}) => {
   )
 }
 
-export default page
+export default page;
